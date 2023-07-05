@@ -1,0 +1,45 @@
+body{
+    background-color:rgb(17, 150, 57) !important;
+}
+
+h1{
+    padding:30px 0;;
+    color:white !important;
+    font-size:50px !important;
+    text-align:center;
+}
+
+h1:hover{
+    cursor:pointer;
+    color:orange !important;
+}
+
+.dice{
+    margin:40px 200px;
+    text-align:center;
+}
+
+.player{
+    padding:40px 0;
+    color:white;
+    font-weight:bold;
+    font-size:20px;
+}
+
+#result{
+    padding:40px 0;
+    color:white;
+    font-weight:bold;
+    font-size:40px;
+    font-family:cursive;
+}
+
+#d1{
+    border-radius:8px;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+}
+
+#d2{
+    border-radius:8px;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+}
